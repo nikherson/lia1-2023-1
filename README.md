@@ -1,3 +1,1 @@
-#lia1-2023-1
-#Repositório para os projetos desenvolvidos pelos alunos da disciplina - LIA1
-#Prof. Adriano
+Repositório para os projetos desenvolvidos na disciplina - LIA1_2023_1
