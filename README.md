@@ -7,4 +7,4 @@ Repositório para Conteúdos de Aula e Projetos Entregues pelos alunos!
 
 19 e 21/07 - fast.ai (5) - entrega dia 21.
 
-26/07 - aulas no Lab 200!
+26/07 - aula no Lab 200!
